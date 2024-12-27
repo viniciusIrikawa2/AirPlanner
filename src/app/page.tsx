@@ -10,7 +10,7 @@ export default function Home() {
           <h1 className="font-bold text-5xl mb-3">Planeje sua viagem com o <span className="text-nice-pink">AirPlanner</span>.</h1>
           <p className="font-semibold font-sans">Nunca foi tão fácil planejar uma viagem.</p>
           <p className="font-semibold font-sans">Faça tudo de forma eficaz e sem dor de cabeça!</p>
-          <button className="bg-nice-pink rounded-full px-4 py-1 text-white mt-3">Começar agora</button>
+          <button className="bg-nice-pink rounded-full px-4 py-2 text-white mt-3">Começar agora</button>
         </div>
         <Image
           src="/plane.gif"
