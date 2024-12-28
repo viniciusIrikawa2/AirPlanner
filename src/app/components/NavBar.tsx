@@ -17,7 +17,7 @@ const NavBar = () => {
             priority/>
         </div>
         <ul className="flex flex-row items-center gap-10 cursor-pointer">
-          <li>Preço</li>
+          <li>Preços</li>
           <li>Sobre</li>
           <li>Blog</li>
           <Link href={"/"} className="bg-nice-pink rounded-full px-4 py-1 text-white">
