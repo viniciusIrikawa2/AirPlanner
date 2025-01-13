@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <main>
       <NavBar />
-      <section className="flex items-center justify-center gap-28">
-        <div className="w-1/4">
+      <section className="flex md:flex-row flex-col items-center justify-center md:gap-28 px-5 md:mt-0 mt-10">
+        <div className="md:w-1/4 w-full">
           <h1 className="font-bold text-5xl mb-3">
             Planeje sua viagem com o <span className="text-nice-pink">AirPlanner</span>.
           </h1>

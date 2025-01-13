@@ -5,7 +5,7 @@ import React from "react";
 const NavBar = () => {
   return (
     <header>
-      <nav className="flex flex-row items-center justify-between px-20 py-5">
+      <nav className="flex md:flex-row md:gap-0 gap-10 flex-col items-center justify-between px-20 py-5">
         <div>
           <Image
             className="cursor-pointer"
